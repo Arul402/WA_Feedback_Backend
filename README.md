@@ -40,8 +40,3 @@ Include your appname in INSTALLED_APPS
   
 set STATIC_URL , STATIC_ROOT , MEDIA_URL , MEDIA_ROOT
 in root urls.py set MEDIA_URL and document_root=MEDIA_ROOT inside static
-
-
-
-In the project directory, you can run:
-### `npm start`
